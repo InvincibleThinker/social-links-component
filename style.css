@@ -22,14 +22,13 @@
 }
 
 .social-card {
-  width: fit-content;
-  height: fit-content;
+  width: 280px;
+  height: 450px;
   display: grid;
   grid-auto-flow: row;
-  align-items: center;
-  justify-content: center;
+
   text-align: center;
-  row-gap: 20px;
+  row-gap: 8px;
   color: white;
   font-family: "Inter", sans-serif;
   background-color: var(--card-color);
@@ -39,7 +38,6 @@
 
 .avtar-image {
   width: 100%;
-  height: fit-content;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -54,7 +52,7 @@
 .user-detail {
   display: grid;
   grid-auto-flow: row;
-  row-gap: 6px;
+  align-items: center;
   font-family: "Inter", sans-serif;
 }
 
@@ -70,15 +68,18 @@
 }
 
 .bio {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-size: 12px;
   font-weight: 400;
   color: white;
 }
 
 .links {
-  width: 220px;
+  align-items: center;
   display: grid;
-  row-gap: 12px;
+  row-gap: 6px;
 }
 
 a {
@@ -87,7 +88,7 @@ a {
   background-color: var(--links-color);
   font-size: 12px;
   font-weight: 700;
-  padding: 6px 24px;
+  padding: 8px 0;
   border-radius: 4px;
   transition: all 0.2s ease;
 }
