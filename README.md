@@ -10,7 +10,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
