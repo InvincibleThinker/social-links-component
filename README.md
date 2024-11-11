@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/InvincibleThinker/social-links-component.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://social-links-component-chi.vercel.app/
 
 ## My process
 
